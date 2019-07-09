@@ -20,3 +20,7 @@ A single resource cannot cover all microbiologists and all identities those scie
 * [DiversifyImmunology]()
 * [500queerscientists.com](http://www.500queerscientists.com/)
 * [500womenscientists.org](https://500womenscientists.org/request-a-scientist)
+
+
+#### Instructions to make your own Diversify website
+* [DiversifyMicrobiology Read-Me](https://github.com/diversifymicrobiology/DiversifyMicrobiology.github.io)
