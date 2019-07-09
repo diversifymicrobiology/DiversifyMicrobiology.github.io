@@ -17,7 +17,7 @@ A single resource cannot cover all microbiologists and all identities those scie
 * [Expert Women in Microbiology](https://docs.google.com/spreadsheets/d/1xw6W2noEUrpc5AFbLgkBGwR1KHIBnay2M9tT_bHaxqk/edit?usp=sharing)
 * [DiversifyChemistry](http://diversifychemistry.com/)
 * [DiversifyEEB](http://diversifyeeb.com/)
-* [DiversifyImmunology]()
+* [DiversifyImmunology](https://diversifyimmunology.github.io/)
 * [500queerscientists.com](http://www.500queerscientists.com/)
 * [500womenscientists.org](https://500womenscientists.org/request-a-scientist)
 
