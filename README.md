@@ -16,6 +16,8 @@ Below are instructions to make your own DiversifyScience website:
     + Change contact information (e.g., email, url, twitter, github) in _config.yml
     + Change page creation/maintainence information (_includes/footer.html, lines 7,8)
     + Change the logo image by saving your own in assets/img/ as "avatar.png"
+    + Change the colors in assets/css/main.scss (lines 16 -18)
+    + Change the yellow background bubble by re-saving the image in your preferred color (as assets/img/background.png)
 3. Change Google Forms and Spreadsheets
     + Form: Once you have your own form created, click: "Send" -> "<>" and copy the "iframe"
     + Replace nominate.md, line 20 with your form "iframe"
