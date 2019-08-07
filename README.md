@@ -21,10 +21,10 @@ Below are instructions to make your own DiversifyScience website:
 3. Change Google Forms and Spreadsheets
     + Form: Once you have your own form created, click: "Send" -> "<>" and copy the "iframe"
     + Replace nominate.md, line 20 with your form "iframe"
-    + Replace the link in line 17 with the https:// web link (be sure it's in quotes)
+    + Replace the link in line 17 with the https:// web link
     + Spreadsheet: From your own "public" spreadsheet, click: "File" -> "Publish to the web" -> "Embed" and copy the "iframe"
     + Replace the "iframe" in list.md, line 16
-    + Replace the link in line 13 with the https:// web link (be sure it's in quotes)
+    + Replace the link in line 13 with the https:// web link 
 4. Make the changes public
     + Push the changes to your repository to make your website immediately available
     + Repeat each time you make changes
