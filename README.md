@@ -12,7 +12,7 @@ Below are instructions to make your own DiversifyScience website:
     + Rename the repository "DiversifyScience.github.io"
     + Clone the repository to your computer
 2. Make it your own
-    + Change the field (e.g., Immunology, Immuno) as needed in: index.html, nominate.md, _includes/header.html, _includes/footer.html (line 12)
+    + Change the field (e.g., Immunology, Immuno) as needed in: index.html, nominate.md, _includes/header.html, _includes/footer.html (line 12), list.md (lines 4, 13)
     + Change contact information (e.g., email, url, twitter, github) in _config.yml
     + Change page creation/maintainence information (_includes/footer.html, lines 7,8)
     + Change the logo image by saving your own in assets/img/ as "avatar.png"
