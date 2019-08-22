@@ -14,7 +14,7 @@ title: Self-Nomination
 
 * Not all listed identities/categories have legal protection in all locations.
 
-[Open Self-Nomination Form in new tab]("https://docs.google.com/forms/d/e/1FAIpQLSf5lAsWkw_4aPlQXOhGeYaMfK0gJDuRfnKwobq4L0X45tqHcQ/viewform?usp=sf_link")
+[Open Self-Nomination Form in new tab](https://docs.google.com/forms/d/e/1FAIpQLSf5lAsWkw_4aPlQXOhGeYaMfK0gJDuRfnKwobq4L0X45tqHcQ/viewform?usp=sf_link)
 
 <figure>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5lAsWkw_4aPlQXOhGeYaMfK0gJDuRfnKwobq4L0X45tqHcQ/viewform?embedded=true" width="640" height="4431" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
