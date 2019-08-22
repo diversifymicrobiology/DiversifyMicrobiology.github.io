@@ -33,26 +33,28 @@ Pre-requisites:
     + Change the colors using hexidecimal values in `assets/css/main.scss` (lines 16 -18)
     + Change the yellow background bubble (on the homepage) by re-saving the image in your preferred color (as `assets/img/background.png`)
 3. Change Google Forms and Spreadsheets
-    + Form: Once you have your own form created, click: 
-        + "Send" 
-        + "<>"
-        + copy the "iframe"
-    + Replace `nominate.md`, line 20 with your form "iframe"
-    + Replace the link in line 17 with the `https://` web link
-    + Spreadsheet: From your own "public" spreadsheet, click: 
-        + "File" 
-        + "Publish to the web" 
-        + "Embed" and 
-        + copy the "iframe"
-    + Replace the "iframe" in `list.md`, line 16
-    + Replace the link in line 13 with the `https://` web link 
+    + **Form:** Once you have your own form created: 
+        + Click: 
+          1. "Send" 
+          2.  "<>"
+          3.  copy the "iframe"
+        + Replace `nominate.md`, line 20 with your form "iframe"
+        + Replace the link in line 17 with the `https://` web link
+    + **Spreadsheet:** From your own "public" spreadsheet: 
+        + Click: 
+          1. "File" 
+          1. "Publish to the web" 
+          1. "Embed" 
+          1. copy the "iframe"
+        + Replace the "iframe" in `list.md`, line 16
+        + Replace the link in line 13 with the `https://` web link 
 4. Make the changes public
     + Push the changes to your repository to make your website immediately available
-        + GitHub Desktop: 
-        1. Type "personalize diversify" in the "Summary" box
-        2. Click "Commit"
-        3. Click the black button (at the top) to "Push to origin"
-        + Git Commandline: 
+        + **GitHub Desktop**: 
+          1. Type "personalize diversify" in the "Summary" box
+          2. Click "Commit"
+          3. Click the black button (at the top) to "Push to origin"
+        + **Git Commandline**: 
         Move to your git directory then execute the commands below:
         ```r
         git add .
