@@ -1,4 +1,4 @@
-# DiversifyMicrobiology.github.io
+# DiversifyMicrobiology.github.io 
 A resource for symposium organizers, award committees, search committees, etc. to identify microbiologists who might diversify their pool.
 
 
@@ -28,3 +28,11 @@ Below are instructions to make your own DiversifyScience website:
 4. Make the changes public
     + Push the changes to your repository to make your website immediately available
     + Repeat each time you make changes
+    
+#Fixing Tips: 
+If you are using our template and recieve any of the messages shown below, follow the accompanying instructions:
+
+\includegraphics{noko_vuln.png}
+1. Open `Gemfile.lock`
+2. Change line 208 from `nokogiri (1.10.3)` to `nokogiri (~> 1.10.4)`
+3. Push the changes to your repo
