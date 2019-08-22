@@ -4,13 +4,19 @@ A resource for symposium organizers, award committees, search committees, etc. t
 
 Below are instructions to make your own DiversifyScience website:
 
+Pre-requisites:
+  + Git/GitHub -- http://swcarpentry.github.io/git-novice/ 
+  + Text editor (nano, Atom, RStudio, etc.)
+  + Mac vs Windows
+
 1. Copy your template
     + Create/login to your GitHub account
-    + Create an organization entitled "DiversifyScience"
+    + Create an organization entitled "DiversifyYourScience"
     + From the repo page, click "Use this template"
     + Direct a copy to your new organization
-    + Rename the repository "DiversifyScience.github.io"
+    + Rename the repository "DiversifyYourScience.github.io"
     + Clone the repository to your computer
+        + `git clone https://diversify.....`
 2. Make it your own
     + Change the field (e.g., Immunology, Immuno) as needed in: `index.html`, `nominate.md`, `_includes/header.html`, `_includes/footer.html` (line 12), `list.md` (lines 4, 13)
     + Change contact information (e.g., email, url, twitter, github) in `_config.yml`
@@ -19,7 +25,10 @@ Below are instructions to make your own DiversifyScience website:
     + Change the colors in `assets/css/main.scss` (lines 16 -18)
     + Change the yellow background bubble by re-saving the image in your preferred color (as `assets/img/background.png`)
 3. Change Google Forms and Spreadsheets
-    + Form: Once you have your own form created, click: "Send" -> "<>" and copy the "iframe"
+    + Form: Once you have your own form created, click: 
+        + "Send" 
+        + "<>"
+        + copy the "iframe"
     + Replace `nominate.md`, line 20 with your form "iframe"
     + Replace the link in line 17 with the `https://` web link
     + Spreadsheet: From your own "public" spreadsheet, click: "File" -> "Publish to the web" -> "Embed" and copy the "iframe"
