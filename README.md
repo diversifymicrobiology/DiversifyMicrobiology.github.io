@@ -29,10 +29,12 @@ Below are instructions to make your own DiversifyScience website:
     + Push the changes to your repository to make your website immediately available
     + Repeat each time you make changes
     
-#Fixing Tips: 
+##Fixing Tips 
+
 If you are using our template and recieve any of the messages shown below, follow the accompanying instructions:
 
 \includegraphics{noko_vuln.png}
+
 1. Open `Gemfile.lock`
 2. Change line 208 from `nokogiri (1.10.3)` to `nokogiri (~> 1.10.4)`
 3. Push the changes to your repo
