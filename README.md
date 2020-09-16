@@ -61,16 +61,28 @@ Pre-requisites:
         git commit -m "personalize diversify"
         git push
         ```
-    + Repeat each time you make changes
+    + Repeat each time you make changes using a commit message (`commit -m`) that describes the changes you made.
     
 # Fixing Tips 
 
-If you are using our template and recieve any of the messages shown below, follow the accompanying instructions:
+If you are using our template and receive any of the messages shown below, follow the accompanying instructions:
 
 ![](noko_vuln.png)
 
 1. Open `Gemfile.lock`
 2. Change line 208 from `nokogiri (1.10.3)` to `nokogiri (~> 1.10.4)`
+3. Push the changes to your repo
+
+![](kramdown.png)
+
+1. Open `Gemfile.lock`
+2. Change line 194 from `kramdown (1.17.0)` to `kramdown (>= 2.3.0)`
+3. Push the changes to your repo
+
+![](rubyzip.png)
+
+1. Open `Gemfile.lock`
+2. Change line 222 from `rubyzip (1.2.3)` to `rubyzip (>= 1.3.0)`
 3. Push the changes to your repo
 
 # Suggestions to improve the instructions?
