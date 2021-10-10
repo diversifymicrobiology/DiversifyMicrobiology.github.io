@@ -85,6 +85,13 @@ If you are using our template and receive any of the messages shown below, follo
 2. Change line 222 from `rubyzip (1.2.3)` to `rubyzip (>= 1.3.0)`
 3. Push the changes to your repo
 
+![image](https://user-images.githubusercontent.com/30296103/136710564-eb85e319-9588-403d-b68f-7d34d0eb2ead.png)
+
+1. Open `Gemfile.lock`
+2. Change line 9 from `addressable (2.6.0)` to `addressable (>=2.8.0)`
+3. Push the changes to your repo
+
+
 # Suggestions to improve the instructions?
 
 Use the "Issues" tab at the top of this page (just under the repository name) to let me know!
